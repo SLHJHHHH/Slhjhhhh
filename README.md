@@ -62,8 +62,8 @@ Currently Learning
 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SLHJHHHH&show_icons=true&theme=midnight-purple&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLHJHHHH&layout=compact&theme=midnight-purple&hide_border=true" height="165" />
+  <img src="https://github-readme-extended.vercel.app/api?username=SLHJHHHH&show_icons=true&theme=midnight-purple&hide_border=true" height="165" />
+  <img src="https://github-readme-extended.vercel.app/api/top-langs/?username=SLHJHHHH&layout=compact&theme=midnight-purple&hide_border=true" height="165" />
 </p>
 
 GitHub Trophies
